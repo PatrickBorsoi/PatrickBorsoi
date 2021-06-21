@@ -12,7 +12,7 @@
 
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-<img align="left" alt="MySql" width="26px" src="https://img.icons8.com/dotty/80/000000/mysql.png"/>
+<img align="left" alt="MySql" width="26px" src="https://img.icons8.com/metro/52/000000/mysql.png"/>
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
