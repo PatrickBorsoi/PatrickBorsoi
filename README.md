@@ -1,6 +1,6 @@
 ### Patrick Perez - [Data Scientist] 👋
 
-## Estou começando na area de cientista de dados, e estou gostando bastante!
+## Estou começando na area de cientista de dados e estou gostando bastante!
 
 ### Conecte-se comigo:
 
