@@ -1,6 +1,6 @@
 ### Patrick Perez - [Data Scientist] 👋
 
-## Estou começando na area de cientista de dados e estou gostando bastante!
+## Iniciando na área de ciência de dados, atualmente fazendo cursos relacionados a Python, Power BI, Sql.
 
 ### Conecte-se comigo:
 [<img align="left"  width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/patrickperezdev/)
