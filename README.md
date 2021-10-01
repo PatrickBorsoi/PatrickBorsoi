@@ -1,4 +1,4 @@
-### Patrick Perez - [Data Scientist] 👋
+### Patrick Perez - [Analista de dados] 👋
 
 ## Iniciando na área de ciência de dados, atualmente fazendo cursos relacionados a Python, Power BI, Sql.
 
