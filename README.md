@@ -1,28 +1,27 @@
-### Patrick Perez - [Analista de dados] 👋
+## Fala ai! Sou o Patrick Perez, desenvolvedor backend e estou aprendendo análise de dados
+<div align="left">
+  <a href="https://github.com/PatrickBorsoi">
+  <!-- img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickBorsoi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickBorsoi&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ptk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ptk-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <!--img align="center" alt="Ptk-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"-->
+  <img align="center" alt="Ptk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ptk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ptk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ptk-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ptk-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" src="https://img.icons8.com/wired/30/40/power-bi.png"/>
+  </div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:patrickperez1698@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/patrickperezdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+ 
+</div>
 
-## Iniciando na área de Analise de dados, atualmente fazendo cursos relacionados a Python, Power BI, Sql.
-
-### Conecte-se comigo:
-[<img align="left"  width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/patrickperezdev/)
-
-<br />
-
-### Linguagens e Ferramentas:
-
-<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-
-<img align="left" alt="MySql" width="26px" src="https://img.icons8.com/fluent/144/4a90e2/mysql-logo.png"/>
-
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="Power Bi" width="26px"  src="https://img.icons8.com/dusk/128/000000/power-bi.png"/>
-
-<br />
-<br />
-
----
-[linkedin]: www.linkedin.com/in/patrickperezdev/
